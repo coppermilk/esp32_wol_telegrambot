@@ -2,10 +2,10 @@
 For a quick and reliable way to turn on a computer from anywhere, without the need to forward broadcast packets or maintain local servers, a [Telegram bot on an ESP32.](https://github.com/coppermilk/esp32_wol_telegrambot)
 
 Key benefits:
-- Low power consumption
-- No need for raspberry pi or equivalents
-- Don't need a clean IP
-- Wireless
+- 🍃Low power consumption
+- 📶Wireless
+- ❌💻No need for raspberry pi or equivalents
+- ❌🕸️ Don't need a static IP
 
 To create such a bot, you need to use an ESP32 dev board, which can connect to a local network via Wi-Fi and consumes very little power — less than half a watt.
 
