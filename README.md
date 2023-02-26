@@ -16,6 +16,8 @@ The code for the bot should be simple and clear and can be found on Github. To c
 -   [WakeOnLan](https://www.arduino.cc/reference/en/libraries/wakeonlan/)
 -   [UniversalTelegramBot](https://www.arduino.cc/reference/en/libraries/universaltelegrambot/)
 
+## Usage
+
 To set up the bot, you need to fill in the Wi-Fi configuration and MAC address of the target device, as well as the Telegram user token and ID, so that no one else can use the bot.
 
 ```cpp
